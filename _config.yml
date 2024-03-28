@@ -58,8 +58,18 @@ social_media:
 #     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 papers:
+  - name: "Tailoring Self-Rationalizers with Multi-Reward Distillation"
+    web_url: https://openreview.net/forum?id=t8eO0CiZJV
+    authors: Sahana Ramnath, Brihi Joshi, Skyler Hallinan, Ximing Lu, Liunian Harold Li, Aaron Chan, Jack Hessel, Yejin Choi, Xiang Ren
+    location: ICLR 2024
+
+  - name: "Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning"
+    web_url: https://aclanthology.org/2023.emnlp-main.424/
+    authors: Ximing Lu, Faeze Brahman, Peter West, Jaehun Jung, Khyathi Chandu, Abhilasha Ravichander, Prithviraj Ammanabrolu, Liwei Jiang, Sahana Ramnath, Nouha Dziri, Jillian Fisher, Bill Lin, Skyler Hallinan, Lianhui Qin, Xiang Ren, Sean Welleck, Yejin Choi
+    location: EMNLP 2023
+
   - name: "Are Machine Rationales (Not) Useful to Humans? Measuring and Improving Human Utility of Free-Text Rationales"
-    web_url: https://arxiv.org/abs/2305.07095
+    web_url: https://aclanthology.org/2023.acl-long.392/
     authors: Brihi Joshi, Ziyi Liu, Sahana Ramnath, Aaron Chan, Zhewei Tong, Shaoliang Nie, Qifan Wang, Yejin Choi, Xiang Ren
     location: ACL 2023
 
