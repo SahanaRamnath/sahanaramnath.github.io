@@ -58,6 +58,11 @@ social_media:
 #     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 papers:
+  - name: "CAVE: Controllable Authorship Verification Explanations"
+    web_url: https://arxiv.org/abs/2406.16672
+    authors: Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren
+    location: arXiv preprint 2024
+
   - name: "Tailoring Self-Rationalizers with Multi-Reward Distillation"
     web_url: https://openreview.net/forum?id=t8eO0CiZJV
     authors: Sahana Ramnath, Brihi Joshi, Skyler Hallinan, Ximing Lu, Liunian Harold Li, Aaron Chan, Jack Hessel, Yejin Choi, Xiang Ren
