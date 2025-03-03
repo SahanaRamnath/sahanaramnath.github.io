@@ -61,7 +61,7 @@ papers:
   - name: "CAVE: Controllable Authorship Verification Explanations"
     web_url: https://arxiv.org/abs/2406.16672
     authors: Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren
-    location: arXiv preprint 2024
+    location: NAACL 2025
 
   - name: "Tailoring Self-Rationalizers with Multi-Reward Distillation"
     web_url: https://openreview.net/forum?id=t8eO0CiZJV
