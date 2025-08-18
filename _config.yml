@@ -58,8 +58,23 @@ social_media:
 #     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 papers:
+  - name: "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries"
+    web_url: https://arxiv.org/abs/2505.20451
+    authors: Sahana Ramnath, Anurag Mudgil, Brihi Joshi, Skyler Hallinan, Xiang Ren
+    location: arXiv May 2025
+
+  - name: "The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage"
+    web_url: https://www.arxiv.org/abs/2508.09603
+    authors: Skyler Hallinan, Jaehun Jung, Melanie Sclar, Ximing Lu, Abhilasha Ravichander, Sahana Ramnath, Yejin Choi, Sai Praneeth Karimireddy, Niloofar Mireshghallah, Xiang Ren
+    location: COLM 2025
+
+  - name: "ELI-Why: Evaluating the Pedagogical Utility of Language Model Explanations"
+    web_url: https://aclanthology.org/2025.findings-acl.1306/
+    authors: Brihi Joshi, Keyu He, Sahana Ramnath, Sadra Sabouri, Kaitlyn Zhou, Souti Chattopadhyay, Swabha Swayamdipta, Xiang Ren
+    location: ACL Findings 2025
+
   - name: "CAVE: Controllable Authorship Verification Explanations"
-    web_url: https://arxiv.org/abs/2406.16672
+    web_url: https://aclanthology.org/2025.naacl-long.451/
     authors: Sahana Ramnath, Kartik Pandey, Elizabeth Boschee, Xiang Ren
     location: NAACL 2025
 
