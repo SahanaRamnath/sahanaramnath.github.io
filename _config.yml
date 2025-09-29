@@ -61,7 +61,7 @@ papers:
   - name: "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries"
     web_url: https://arxiv.org/abs/2505.20451
     authors: Sahana Ramnath, Anurag Mudgil, Brihi Joshi, Skyler Hallinan, Xiang Ren
-    location: arXiv May 2025
+    location: EMNLP 2025
 
   - name: "The Surprising Effectiveness of Membership Inference with Simple N-Gram Coverage"
     web_url: https://www.arxiv.org/abs/2508.09603
