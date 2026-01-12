@@ -59,7 +59,7 @@ social_media:
 
 papers:
   - name: "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries"
-    web_url: https://arxiv.org/abs/2505.20451
+    web_url: https://aclanthology.org/2025.emnlp-main.1300/
     authors: Sahana Ramnath, Anurag Mudgil, Brihi Joshi, Skyler Hallinan, Xiang Ren
     location: EMNLP 2025
 
