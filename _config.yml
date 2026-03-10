@@ -58,6 +58,11 @@ social_media:
 #     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
 papers:
+  - name: "DIAL-SUMMER: A Structured Evaluation Framework of Hierarchical Errors in Dialogue Summaries"
+    web_url: https://arxiv.org/abs/2602.08149
+    authors: Sahana Ramnath, Nima Chitsazan, Mingyang Zhou, Chia-Hsuan Lee, Shi-Xiong Zhang, Stephen Rawls, Sambit Sahu, Sangwoo Cho, Xiang Ren, Genta Indra Winata, Akshaj Kumar Veldanda
+    location: arXiv February 2026
+    
   - name: "Amulet: Putting Complex Multi-Turn Conversations on the Stand with LLM Juries"
     web_url: https://aclanthology.org/2025.emnlp-main.1300/
     authors: Sahana Ramnath, Anurag Mudgil, Brihi Joshi, Skyler Hallinan, Xiang Ren
